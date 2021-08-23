@@ -1,0 +1,7 @@
+version: "3"
+services:
+  ap:
+    image: busybox
+    environment:
+      AAAA:
+      BBBB: bbbb

@@ -1,0 +1,7 @@
+version: "3"
+services:
+  ap:
+    environment:
+      XXXX:
+      YYYY: yyyy
+      ZZZZ:
